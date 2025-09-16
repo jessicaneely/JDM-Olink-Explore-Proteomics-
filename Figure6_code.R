@@ -14,8 +14,8 @@ data <- readRDS("merged_data_protein_meta_5_24_24.rds")
 table(data$`Disease status`)
 data_TN <- data_msa[data_msa$`Disease status`=="TN", ]
 
-#remove duplicate sample: 109069
-data_TN <- data_TN[data_TN$common_ID!="109069", ] #switch out for CLG ID here 
+#remove duplicate sample: CLG13
+data_TN <- data_TN[data_TN$common_ID!="CLG13", ] 
 
 #run lmer with NXP2, TIF1y and MDA5
 nxp2_lmer <- olink_lmer(df = data_TN,
