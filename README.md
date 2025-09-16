@@ -9,6 +9,7 @@ Annals of the Rheumatic Diseases,
 ISSN 0003-4967,
 https://doi.org/10.1016/j.ard.2025.07.020.
 (https://www.sciencedirect.com/science/article/pii/S0003496725042918)
+
 Abstract: ABSTRACT
 Objectives
 Juvenile dermatomyositis (JDM) is a heterogeneous autoimmune condition needing targeted treatment approaches and improved understanding of molecular mechanisms driving clinical phenotypes. We utilised exploratory proteomics from a longitudinal North American cohort of patients with new-onset JDM to identify biological pathways at disease onset and follow-up, tissue-specific disease activity, and myositis-specific autoantibody (MSA) status.
